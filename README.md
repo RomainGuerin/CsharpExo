@@ -1,7 +1,7 @@
 # Exercice C#
 
 
-- [Exercice LINQ]([https://github.com/RomainGuerin/CsharpExo/tree/main/LesBases/ArticleLocationDel](https://github.com/RomainGuerin/CsharpExo/tree/main/LesBases/LinqArticle))
+- [Exercice LINQ](https://github.com/RomainGuerin/CsharpExo/tree/main/LesBases/LinqArticle)
 - [Exercice 3 : Délégués](https://github.com/RomainGuerin/CsharpExo/tree/main/LesBases/ArticleLocationDel)
 - [Exercice 2 : Classes Abstraites](https://github.com/RomainGuerin/CsharpExo/tree/main/LesBases/ArticleLocationAbs)
 - [Exercice 1 : Interfaces](https://github.com/RomainGuerin/CsharpExo/tree/main/LesBases/ArticleLocation)
